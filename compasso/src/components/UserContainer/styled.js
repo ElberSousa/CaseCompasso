@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const ScreenContainer = styled.div`
   display: flex;
@@ -13,4 +13,4 @@ export const ButtonContainer = styled.div`
   flex-direction: row;
   justify-content: space-between;
   margin-bottom: 1vh;
-`
+`;

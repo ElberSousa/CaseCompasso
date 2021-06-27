@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import HomePage from '../pages/HomePage/HomePage';
-import ErrorPage from '../pages/ErrorPage/ErrorPage'
+import ErrorPage from '../pages/ErrorPage/ErrorPage';
 import Header from '../components/Header/Header';
 
 const Router = () => {
